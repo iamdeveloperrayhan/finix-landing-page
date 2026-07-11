@@ -99,7 +99,7 @@ or
 
 Replace the image below.
 
-![Products](img/image.png)
+
 
 # ⚙️ Installation
 
