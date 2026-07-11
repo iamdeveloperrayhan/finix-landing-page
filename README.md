@@ -96,7 +96,7 @@ or
 ---
 
 # 📸 Project Screenshot
-![Products](img/image.png)
+![Products](img/home.png)
 
 Replace the image below.
 
