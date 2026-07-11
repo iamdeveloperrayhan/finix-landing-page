@@ -99,9 +99,7 @@ or
 
 Replace the image below.
 
-```html
-  <img src="img/image.png" width="100%">
-```
+![Products](img/image.png)
 
 # ⚙️ Installation
 
