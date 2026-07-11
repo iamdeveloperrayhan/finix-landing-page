@@ -99,17 +99,9 @@ or
 
 Replace the image below.
 
-```text
-img/image.png
-```
-
-or
-
 ```html
-<img src="img/image.png" width="100%">
+  <img src="img/image.png" width="100%">
 ```
-
----
 
 # ⚙️ Installation
 
